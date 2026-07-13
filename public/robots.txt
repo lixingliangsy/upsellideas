@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://upsellideas.com/sitemap.xml
